@@ -9,11 +9,11 @@
 /* Write CSS code below */
     
     main{
-        height: 1000px;
+        min-height: 1000px;
         width: 90%;
         margin: 20px auto;
         display: grid;
-        grid-template-columns: 300px 700px;
+        grid-column: 300px 700px;    
         
     }
     li{
