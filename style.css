@@ -26,13 +26,13 @@
     }
     .left-section{
         width: 300px;
-        grid-column: span1/auto;
+        grid-column: span 1 / auto;
         background-color: #242531;
     }
-    
+
     .right-section{
         width: 700px;
-        grid-column: span1/auto;
+        grid-column: span 1 / span 2;
         background-color: #f7f7f7;
     }
     
