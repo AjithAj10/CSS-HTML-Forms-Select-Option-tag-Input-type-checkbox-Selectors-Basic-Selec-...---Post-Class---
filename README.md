@@ -7,7 +7,7 @@ As the résumé is purely typeset with HTML and CSS, it's highly customizable (e
 
 Find the background story of this project at my blog.
 
-Fonts, Icon Fonts, and Dependencies
+<h3>Fonts, Icon Fonts, and Dependencies</h3?
 
     Open Sans, Source Code Pro and Source Sans Pro are used at various weights, but are not included in this repository. Please follow the links to download the fonts onto your computer.
     Icons from Font Awesome are used and are incorporated as a git submodule in this repository.
