@@ -11,9 +11,10 @@
     main{
         min-height: 1000px;
         width: 90%;
-        margin: 20px auto;
         display: grid;
+        justify-content: center;
         grid-template-columns: 300px 700px; 
+        
         
     }
     li{
@@ -151,10 +152,11 @@
           .main-content{
             display: grid;
             grid-template-columns: repeat(1, 1fr);  
+              justify-content: center;
+              align-items: center;
             width: 90%;
             min-height: 1000px;
-            grid-gap: 10px;
-            padding: 10px;
+  
           }
         .left-section{
             width: 90%;
